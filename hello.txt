@@ -1,2 +1,3 @@
 hi this is hello .txt file .
-i am edditing this line from github wedsite.
+I am editing this line from github website.
+learning git .
